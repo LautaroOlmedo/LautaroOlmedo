@@ -3,7 +3,7 @@
 ## Full Stack Developer orientado hacia el Back-End y estudiante de Ingeniería informática
 
 * ¿Quién soy? **Soy una persona responsable, organizada y con persistencia y actitud para crecer día a día tanto profesionalmente como personalmente.**
-* **Amante de las matemáticas, música, teatro y estructura de datos.**
+* **Amante de las matemáticas, música, teatro y estructuras de datos.**
 * **Contacto:** [lautaroolmedo77@gmail.com]()
 
 ---
