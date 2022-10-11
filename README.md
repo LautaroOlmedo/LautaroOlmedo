@@ -10,10 +10,8 @@
 
 ### * Fronted:
 
-- **_Django_**
 - **_JavaScript_**
 - **_React.js_**
-- **_React Native_**
 - **_Redux_**
 - **_HTML_**
 - **_CSS_**
@@ -22,29 +20,20 @@
 
 ### * **Back-End**:
 
+- **_Node.js_**
 - **_Java_**
 - **_Python_**
-- **_Node.js_**
-- **_Express.js_**
 
 ---
 
 ### * **Database:**
 
 - ### **_SQL_**:
-- - **_SQL: Consultas, Modelado de base de datos, Normalización, etc.._**
   - **_MySQL_**
-  - **_MariaDB_**
   - **_PostgresSQL_**
-  - **_(ORM Sequelize)_**
+  - **_Sequelize_**
+  
 - ### **_MongoDB_**
 
----
 
-### * **_Además:_**
 
-- **_Casos de uso, Modelado UML, Captura de requisitos_**
-- **_Git, GitHub_**
-- **_Metodologías ágiles_**
-- **_TypeScript_**
-- **_Sistemas Operativos_**
