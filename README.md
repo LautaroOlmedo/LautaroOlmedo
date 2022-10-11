@@ -1,4 +1,4 @@
-# Hola, soy Lautaro Olmedo
+# Hola, soy Lautaro
 
 ## Full Stack Developer orientado hacia el Back-End y estudiante de Ingeniería informática
 
