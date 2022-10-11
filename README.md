@@ -5,6 +5,7 @@
 * ¿Quién soy? **Soy una persona responsable, organizada y con persistencia y actitud para crecer día a día tanto profesionalmente como personalmente.**
 * **Amante de las matemáticas, música, teatro y estructuras de datos.**
 * **Contacto:** [lautaroolmedo77@gmail.com]()
+* **LinkedIn:** [https://www.linkedin.com/in/lautaro-olmedo-648854224/]()
 
 ---
 
