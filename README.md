@@ -1,6 +1,6 @@
 # Hola, soy Lautaro
 
-## Full Stack Developer orientado hacia el Back-End y estudiante de Ingeniería informática
+## Full Stack Developer orientado hacia el Back-End y estudiante de la Licenciatura en Informática y Desarrollo de Software
 
 * ¿Quién soy? **Soy una persona responsable, organizada y con persistencia y actitud para crecer día a día tanto profesionalmente como personalmente.**
 * **Amante de las matemáticas, música, teatro y estructuras de datos.**
@@ -23,7 +23,7 @@
 
 - **_Node.js_**
 - **_Java_**
-- **_Python_**
+- **_Go_**
 
 ---
 
@@ -33,8 +33,10 @@
   - **_MySQL_**
   - **_PostgresSQL_**
   - **_Sequelize_**
-  
-- ### **_MongoDB_**
+  - **_TypeORM_**
+ 
+- ### **_NoSQL_**:
+  - ### **_MongoDB_**
 
 
 
