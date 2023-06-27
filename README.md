@@ -1,6 +1,6 @@
 # Hola, soy Lautaro
 
-## Full Stack Developer orientado hacia el Back-End y estudiante de la Licenciatura en Informática y Desarrollo de Software
+## Software Developer. Estudiante de la carrera Licenciatura en Informática y Desarrollo de Software
 
 * ¿Quién soy? **Soy una persona responsable, organizada y con persistencia y actitud para crecer día a día tanto profesionalmente como personalmente.**
 * **Amante de las matemáticas, música, teatro y el desarrollo de software.**
@@ -20,10 +20,9 @@
 ---
 
 ### * **Back-End**:
-
+- **_Go_**
 - **_Node.js_**
 - **_Java_**
-- **_Go_**
 
 ---
 
