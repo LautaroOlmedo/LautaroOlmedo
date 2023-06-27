@@ -29,13 +29,9 @@
 ### * **Database:**
 
 - ### **_SQL_**:
-  - **_MySQL_**
-  - **_PostgresSQL_**
-  - **_Sequelize_**
-  - **_TypeORM_**
  
 - ### **_NoSQL_**:
-  - ### **_MongoDB_**
+
 
 
 
