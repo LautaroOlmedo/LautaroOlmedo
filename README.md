@@ -9,28 +9,19 @@
 
 ---
 
-### * Fronted:
-
-- **_TypeScript_**
-- **_React.js_**
-- **_Redux_**
-- **_HTML_**
-- **_CSS_**
-
----
-
-### * **Back-End**:
 - **_Go_**
 - **_Node.js_**
 - **_Java_**
 
 ---
 
-### * **Database:**
+### * **SQL & NoSQL:**
 
-- ### **_SQL_**
+### * **Docker:**
  
-- ### **_NoSQL_**
+### * **Kubernetes:**
+
+---
 
 
 
