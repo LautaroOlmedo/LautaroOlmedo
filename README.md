@@ -13,11 +13,11 @@
 
 ---
 
-### * **SQL & NoSQL:**
+### * **SQL & NoSQL**
 
-### * **Docker:**
+### * **Docker**
  
-### * **Kubernetes:**
+### * **Kubernetes**
 
 ---
 
